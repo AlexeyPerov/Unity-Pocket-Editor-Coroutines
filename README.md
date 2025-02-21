@@ -53,6 +53,9 @@ or to [contribute](https://github.com/AlexeyPerov/Unity-Pocket-Editor-Coroutines
 
 ## Other tools
 
+##### More extended version of Editor coroutines
+See [Lite-Editor-Coroutines](https://github.com/AlexeyPerov/Unity-Lite-Editor-Coroutines).
+
 ##### Dependencies Hunter
 
 To find unreferenced assets in Unity project see [Dependencies-Hunter](https://github.com/AlexeyPerov/Unity-Dependencies-Hunter).

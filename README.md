@@ -35,7 +35,7 @@ PocketEditorCoroutine.Start(enumerator);
 ```
 or that way
 ```code
-PocketEditorCoroutine.Start(enumerator, this); // where 'this' might be EditorWindow which is used to detect when to stop the corotuine upon shutdown
+PocketEditorCoroutine.Start(enumerator, this); // where 'this' might be EditorWindow which is used to detect when to stop the coroutine upon shutdown
 ```
 you can also later stop coroutine by calling
 ```code

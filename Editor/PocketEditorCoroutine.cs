@@ -4,7 +4,7 @@ using UnityEditor;
 
 namespace PocketEditorCoroutines
 {
-    internal class PocketEditorCoroutine
+    public class PocketEditorCoroutine
     {
         private readonly bool _hasOwner;
         private readonly WeakReference _ownerReference;

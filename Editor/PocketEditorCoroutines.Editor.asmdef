@@ -1,6 +1,5 @@
 {
-    "name": "PocketEditorCoroutine.Editor",
-    "rootNamespace": "",
+    "name": "PocketEditorCoroutines.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

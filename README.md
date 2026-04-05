@@ -45,6 +45,7 @@ coroutine.Stop();
 ## Installation
 
 You can just copy-paste [PocketEditorCoroutine.cs](./Editor/PocketEditorCoroutine.cs) to your project to any Editor folder.
+
 Alternatively you can use UPM with link https://github.com/AlexeyPerov/Unity-Pocket-Editor-Coroutines.git.
 
 ## Contributions
